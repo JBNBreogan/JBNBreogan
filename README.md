@@ -1,0 +1,3 @@
+- 👋 Hi, im Breogan
+- 👀 I’m interested in Game development
+- 🌱 I’m currently learning coding, in java, python and C# 
